@@ -1,4 +1,4 @@
-test-urls-in-text
+Test all the URLs in a text file
 =================
 
 This is a super simple command-line application to find and test the URLs in a file. 
