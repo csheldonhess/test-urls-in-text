@@ -1,0 +1,536 @@
+University of Alaska
+ Anchorage
+
+
+eLearning
+& Technology
+Faculty Handbook
+ 
+Table of Contents
+
+Introduction	1
+ACDLITe Committee	2
+Guidelines for UAA eLearning Courses	3
+A.	Guidelines for Institutional Support Services	4
+B.	Guidelines for Student Support Services	5
+C.	Guidelines for Faculty Support Services	6
+D.	Guidelines for Course Content & Course Delivery	7
+E.	Guidelines for Student Participation	9
+F.	Faculty Resources and Services	10
+1.	Advising and Support Services	10
+2.	Bookstore	10
+3.	Disability Support Services (DSS)	10
+4.	Distance Education Services (DES)	11
+5.	IT Help Desk	11
+6.	Learning Resources Center (LRC)	12
+7.	Library Services	13
+8.	Faculty Technology Center (FTC) (formerly eMedia)	13
+9.	Key Server	14
+10.	Syllabus Template	15
+11.	Email Information	20
+12.	Identifying Class Modalities and Coding	22
+Policies, Procedures, and Regulations	24
+1.	Academic Integrity	24
+2.	Academic Rights of Students	25
+3.	Academic Dispute Resolution Procedure	25
+4.	Acceptable Use Policy	26
+5.	Copyright and Intellectual Property Rights Policy	26
+6.	Fair Use	27
+7.	Family Educational Rights and Privacy Act (FERPA)	28
+8.	TEACH Act	29
+9.	Blackboard Policy	30
+10.	Elluminate Live Policy (Pending)	30
+ 
+Introduction
+
+The purpose of this handbook is to help faculty meet the growing demands of e-learning and technology support.  It describes resources available to faculty, and provides guidelines and recommendations.  As a resource to faculty, it is advisory in nature, supporting the principle of academic freedom and the right and responsibility of each individual faculty member to select, adapt, and assess teaching methods, strategies, and outcomes. 
+
+Because the University community is comprised of faculty members who specialize in many diverse disciplines, there is no single delivery or teaching methodology that is applicable to all.  It is up to individual faculty to peruse this Handbook and to select and implement practices that best meet his or her teaching objectives and the needs of specific student groups and communities.
+
+This Handbook is a living document.  Faculty members are encouraged to notify the Faculty Senate of inconsistencies, errors, and obsolescence so this Handbook can evolve and adapt to educational needs. 
+
+As every civilization has needed teachers who embrace the critical task of conveying and passing human knowledge from one person to another, and from one generation to the next, we hope that this resource guide will assist UAA faculty to continue this rich tradition while meeting the technical and pedagogical demands of the twenty-first century.
+
+
+Academic Computing, Distance Learning, Instructional Technology, and eLearning Committee
+University of Alaska, Anchorage, Spring 2012
+ 
+ACDLITe Committee
+Dear Colleagues – 
+The Academic Computing, Distance Learning, Instructional Technology, and eLearning  Committee (ACDLITe) undertook the project of preparing this Handbook during academic year 2008-2009.  In spring 2010, spring 2011, and spring 2012, we revised the handbook in order to accommodate the changes, additions, and corrections over the past year.
+
+Recognizing the dynamic and fluid nature of Web publications and Web provided information, we recommend that this Handbook be reviewed and updated annually.  Materials and links contained in this guide should be tested for usability and relevance.  Websites and their information are expected to change as relevant policy, practice, or the responsible departments, offices, or agencies update information. 
+
+If you are not familiar with ACDLITe, we are a committee of the UAA Faculty Senate.  As a committee, we are comprised of faculty members like you.  Our mission is:  
+
+“…to advise the Faculty Senate on matters related to the use and institutional support of technology in the pursuit of academic goals.  In the discharge of its duties, the committee may initiate and review policies, represent the faculty to the Chancellor and to the Faculty Alliance and respond to requests from the Boards for Undergraduate Studies or Graduate Studies.” 
+
+
+ 
+Guidelines for UAA eLearning Courses
+The following are guidelines for developing e-learning courses and are not part of the Graduate Academic Board or the Undergraduate Academic Board approval process.  The guidelines are based on national standards broadly agreed upon by a range of national education organizations and universities.  The purpose of these recommendations (which are designed to apply to all the UAA campuses) is to ensure that the quality of e learning and distance education courses at the University of Alaska Anchorage is acceptably high in terms of instructional delivery, "classroom" experience, and learning outcomes.
+
+Keep in mind that the following guidelines are suggested recommendations.  They are not meant to dictate behavior or to limit freedom when it comes to the delivery and instruction of e learning courses.  Instead, they are designed to suggest a course of action for strengthening the quality of learning and the quality of experience associated with e learning and distance education at UAA. 
+
+For the purpose of this guide, ACDLITe supports the following definition of distance delivery education in the Higher Education Opportunity Act 
+
+Distance education.
+(A)   In general.--Except as otherwise provided, the term "distance education" means education that uses one or more of the technologies described in subparagraph (B)                          
+(i) to deliver instruction to students who are separated from the instructor; and
+(ii) to support regular and substantive interaction between the students and the 
+instructor, synchronously or asynchronously.
+
+(B) Inclusions.--For the purposes of subparagraph (A), the technologies used may include
+(i) the Internet;
+(ii) one-way and two-way transmissions through open broadcast, closed circuit, cable, microwave, broadband lines, fiber optics, satellite, or wireless communications devices;
+(iii) audio conferencing; or
+(iv) video cassettes, DVDs, and CD-ROMs, if the cassettes, DVDs, or CD-ROMs are used in a course in conjunction with any of the technologies listed in clauses (i) through (iii).
+http://www2.ed.gov/policy/highered/leg/hea08/index.html 
+A.	Guidelines for Institutional Support Services
+It is recommended that the institution:
+1.	provide faculty and students access to reliable and appropriate technologies for carrying out the instructional goals of e learning courses (this includes a stable, password-protected, platform for e-learning)
+2.	provide faculty and students appropriate levels of training and/or training materials related to the use of e-learning technologies
+3.	and/or instructor administer a “pre-course assessment form” that asks students to indicate their preparedness for taking a e learning course (preparedness in terms of skills, access to required technologies, and learning styles)
+4.	provide e learning faculty and students access to a centralized technical support center that will provide timely assistance on technology questions and problems
+5.	provide a course coding system in published course schedule offerings that will allow instructors and departments to flag specific courses as distance-delivered courses.
+6.	provide e learning faculty and students electronic access to library services, materials, and resources
+7.	ensure that e learning students have adequate access to the following key administrative and support services: enrollment services, financial aid services, bookstore services, advising and counseling services, and disability support services
+8.	provide students with timely information on the technical equipment and skills required for success in the different types of e learning courses offered at UAA.  This includes information on how to log in to the university’s primary course management system (e.g., Blackboard)
+9.	provide a centralized organization/department that is responsible for coordinating, implementing, and overseeing the major support services applicable to e learning students and faculty. 
+ 
+B.	Guidelines for Student Support Services
+It is recommended that UAA students:
+1.	are made aware of the major technologies used in the course before the start of the course
+2.	are made aware of the minimum technical equipment and skill requirements of the course before the start of the course
+3.	are provided with a comprehensive course syllabus by the first day of the start of the course (note: if required textbook information is only available to the student through the course syllabus, then it is recommended that this document be distributed to students in advance of the course start date)
+4.	are provided with the full cost of each course prior to the release of the schedule as required by the Higher Education Opportunity Act http://www2.ed.gov/policy/highered/leg/hea08/index.html
+The faculty will notify the relevant university bookstore of the required texts and supplemental materials either at the time the course is added to the schedule or by the deadlines announced by the bookstore, whichever occurs latest. The university bookstore deadlines are to occur 2-4 weeks prior to the schedule being available to the students.
+5.	are granted frequent and free access to technical “help desk” services for the duration of the course
+6.	have a defined means of voicing concerns about courses to the appropriate departments and deans
+7.	have reasonable access to enrollment services, financial aid services, bookstore services, advising and counseling services, disability support services, and library services
+8.	are provided access to training materials related to the course technologies when and where appropriate.
+ 
+C.	Guidelines for Faculty Support Services
+It is recommended that UAA faculty:
+1.	have access to instructional design support services (i.e., a course development team) to ensure the sound planning and development of e learning courses
+2.	have access to training workshops and mentoring opportunities that will assist faculty in learning how to teach at a distance and how to adapt courses for distance delivery
+3.	are provided with incentives to participate in e-learning course development training opportunities and technical training opportunities offered by the institution
+4.	are provided appropriate and reasonable access to new technologies and technical equipment for use in e-learning instruction
+5.	are granted convenient and free access to technical “help desk” services
+6.	have convenient and free access to centralized e-learning course delivery services such as homework collection, materials duplication and distribution, exam proctoring, content digitization, etc.
+7.	receive assistance in researching and interpreting current copyright law on the use of published and non-published instructional materials
+8.	receive assistance from library personnel in obtaining and organizing online and printed library resources.
+9.	receive assistance from the bookstore for information on online texts and eBook options.
+
+ 
+D.	Guidelines for Course Content & Course Delivery
+It is recommended that UAA faculty:
+1.	has responsibility for the oversight and quality of e-learning courses; this includes responsibility for the selection and design of course content, course activities, and course assessments; the selection and use of appropriate course technologies; the facilitation of course activities and course interactions; the evaluation of course assignments and tests; etc.
+2.	ensure that the major tasks and learning outcomes of a given e-learning course are comparable to the major tasks and learning outcomes of the course’s face-to-face counterpart as outlined in the Course Content Guide
+3.	ensure that all course materials, course requirements, course links, course policies, etc. are revised and up to date by the first day of the start of the course
+4.	ensure that e-learning students have access to a copy of the course syllabus by the first day of the start of the course (note: if syllabus content is needed before the start of the course, then it is recommended that this document be provided at an earlier time as the instructor sees fit).  In addition to standard items such as “course objectives” and “course grading protocols,” the syllabus may also contain information particularly relevant to e-learning, such as
+a.	course access information
+b.	course format and pacing
+c.	course technologies
+d.	course equipment requirements
+e.	technical skill requirements
+f.	book purchasing information
+g.	Information Technology (IT) Call Center information
+h.	library access information
+i.	required synchronous activities
+j.	assignment submission instructions, etc.
+5.	give e-learning students at least two reliable methods of contacting the course instructor throughout the semester (e.g., email, discussion board, telephone, in-person meeting, online chat room, etc.)
+6.	respond to student questions and inquiries within a timely manner (preferably within two working days)
+7.	provide useful and corrective feedback on assignments, tests, papers, and activities in a timely manner (preferably within seven working days)
+8.	build mechanisms into their e-learning courses that foster student-to-student interactions as well as student-to-instructor interactions
+9.	attempt to address different learning styles in the design and development of course materials and activities
+10.	assess student learning through multiple means, rather than relying solely on the use of standardized tests
+11.	provide students with advance notice of required synchronous activities if possible
+12.	ensure that printed and electronic materials are in accordance with current copyright law
+13.	carefully assess and review third party courseware (e.g., publishers’ course cartridges, telecourse tapes, etc.) before integrating such content into a given course
+14.	assess education courses through formal means (e.g., peer review, student review, departmental review, etc.) to ensure that appropriate learning outcomes are being met
+15.	ensure that course content is accessible to students with disabilities when and where appropriate.  This may include presenting material in alternative formats, such as printable text files. 
+
+ 
+E.	Guidelines for Student Participation
+It is recommended that UAA students:
+1.	take the initiative to learn about the technical equipment and technical skill requirements for the course in advance of the course start date
+2.	are advised to complete a university-sponsored “pre-course assessment form” in which they are asked to indicate their preparedness for taking a e-learning course (preparedness in terms of skills, access to required technologies, and learning styles)
+3.	are advised that an instructor may drop a student from a course if he/she is unable to demonstrate the necessary technical skills for the class
+4.	adhere to the UAA Student Code of Conduct
+5.	use their UAA email account for the duration of the e-learning course and are advised to check it frequently (preferably daily)
+6.	respond to instructor-initiated emails and inquiries within a timely manner (preferably within two working days)
+7.	demonstrate participation in a given e-learning course within the first three weeks of the class or become immediately eligible for an instructor-initiated drop/withdrawal (note: some instructors may make exceptions to this policy for self-paced courses and other courses with alternative formats)
+8.	are advised that frequent participation in an e-learning course (e.g., completing assignments, responding to emails, posting messages, accessing course content, taking course exams, etc.) is a requirement for most classes.  Therefore, failure to participate in a course for three weeks in a row makes  a student eligible for an instructor-initiated drop/withdraw,  at the discretion of the instructor
+9.	take the time to complete and submit the university-sponsored course evaluation form made available to them at the end of the semester
+
+ 
+F.	Faculty Resources and Services
+1.	Advising and Support Services
+UAA Advising and Testing provides testing and assessment services to new and continuing students to enhance the attainment of their individual, educational, and life goals.  The Advising & Testing Center supports many of the testing needs of UAA in addition to serving as a national test site for the community.  Students can make appointments for academic and career advising through the center as well.
+For more information, call (907) 786-4500
+Visit the website: http://www.uaa.alaska.edu/advising%2Dtesting/
+2.	Bookstore
+UAA Bookstore: Textbooks and other course materials will NOT be sent automatically to students.  Anchorage students can purchase their books and course materials at the UAA Bookstore, located in the UAA Campus Center building.  Students living outside of the Anchorage area can order books and course materials with their credit cards by completing an on-line form, or by phone.
+For more information, call (907) 786-1151
+Visit the website: www.uaa.alaska.edu/bookstore/.
+KPC faculty can call (907) 262-0312 or visit this website or information on mbsdirect.net: http://www.kpc.alaska.edu/resources/bookstores/
+3.	Disability Support Services (DSS)
+DSS coordinates academic adjustments for students with documented disabilities, including those students who are taking distance- delivered courses.  Faculty should expect to receive a faculty notification letter if the student is eligible for adjustments.  Accommodation strategies include but are not limited to:  note taking assistance,  testing accommodations, alternate format materials, ASL Interpreters or text based communication access techniques, and liaison services.
+In addition to the coordination of academic adjustments, DSS also offers informational sessions and workshops on a wide range of topics that are advertised on their calendar.  DSS strives to support faculty in the implementation of a Universal Design approach in which potential barriers are minimized at the design stage, thus minimizing the need for retroactive accommodation. DSS staff is available to discuss any questions or concerns. 
+For more information, call (907) 786-4530
+Visit the website: www.uaa.alaska.edu/dss
+4.	Distance Education Services (DES)
+UAA Distance Education offers support services for faculty and students in distance- delivered courses.  Faculty can receive assistance from Distance Education with the proctoring of exams (at UAA, other UA locations around the state, and locations outside of Alaska).  Students receive assistance with orienting to courses in a distance-delivered format (i.e. how to register for distance courses, how to get started in their courses, and how to sign-up for a proctored exam).
+For more information, call (907) 786-4646, option 3
+Visit the website: www.uaa.alaska.edu/distanceeducation/
+5.	IT Help Desk
+Information Technology Services offers assistance to faculty, staff, and students with computer services, telephone services and AV services.  Computer services include maintenance of UAA computer labs, desktop services, email and Exchange services, network access, username services, and assistance with software.  Telephone services include assistance with long distance calling, telephone hardware, voice mail and the phone directories.  AV services include the loan of a variety of audio and visual equipment (i.e. projectors, microphones, audio conveners). 
+For more information call (907) 786-4646, option 1, or email callcenter@uaa.alaska.edu
+Visit the website: http://technology.uaa.alaska.edu/
+ 
+6.	Learning Resources Center (LRC)
+The Learning Resources Center (LRC), located in the Sally Monserud Building, offers a friendly and relaxed atmosphere for students to read, study, work with supplemental materials, or get extra help for a class.  The LRC is open seven days a week; see the website for hours of operation.
+Student resources:
+Quiet study area
+Language laboratory with language tutors including English-as-a-second language (ESL)
+Math laboratory with math tutors
+Computers loaded with mathematics software
+Writing center with writing tutors
+Computer assisted writing laboratory
+Open computer laboratory that is open until 2:00 AM
+Course reserve material for check out: print, audio-visual, and computerized material
+Registry of private tutors for hire in a variety of subjects
+
+Instructor Resources:
+SCANTRON, bubble sheet reader/grader
+Tele-course material for instructors
+Place material on reserve for student check out
+Test proctoring for correspondence courses from Center for Distance Education and Independent Learning (CDE) for University of Alaska Fairbanks (proctoring for UAA courses is through DES).
+
+General Resources: 
+Laser printing
+Copy machines
+Laminating equipment
+Document binding
+Video and audio duplication
+Project cutting board
+
+For more information, call (907) 786-6829 
+Visit the website: http://www.uaa.alaska.edu/ctc/programs/lrc/
+KPC learning center: http://www.kpc.alaska.edu/KRC/learningcenter/
+7.	Library Services
+The UAA Consortium Library offers extensive resources to support on-campus and online courses including books, databases (which can be used for off-site searches), excellent interlibrary loan services, and assistance with research.  Each division at UAA is assigned a librarian.  Health sciences librarians are also available.
+For more information, call (907) 786-1871
+Visit the website: http://www.consortiumlibrary.org/  or: KPC library link: http://www.kpc.alaska.edu/resources/libraries/
+
+8.	Faculty Technology Center (FTC) (formerly eMedia)
+The Faculty Technology Center provides comprehensive support of faculty in the development and implementation of instructional technologies.  These services include one-on-one assistance, group workshops in Blackboard, and other multimedia technologies, learning object development, instructional design, digital equipment loans, etc.
+Additionally, the FTC works to bring the newest technologies to UAA faculty in order to support instruction and student learning.  Done through local, on-going research, this is also achieved through FTC’s membership in the international New Media Consortium, which promotes the use of technology in academia.  The New Media Consortium brings innovative colleges and universities together to explore new ways of teaching and learning with digital media.
+The Faculty Technology Center is located in Suite 215 of the Consortium Library.
+The Faculty Technology Center Instructional Lab is located in Suite 214 of the Consortium Library and can be used by faculty for:
+Students attending a course (scheduled) 
+Teaching a hybrid course (scheduled) 
+Workshops (scheduled) 
+Technology Fellows 
+Meetings (scheduled) 
+Video Teleconferences
+For more information, call (907) 786-4646, option 4
+Visit the website: http://www.uaa.alaska.edu/facultytechnologycenter/
+KPC Online services: http://www.kpc.alaska.edu/resources/OnlineServices/
+ 
+9.	Key Server
+Key server software is available at http://www.alaska.edu/keys/ 
+This site provides access to software licensed to UAA for faculty use.  Access to this site and to this tool requires that you be on campus or remote access through a Virtual Private Network (VPN) link.
+Software available includes Adobe, Dreamweaver, Photoshop, and many others.
+The following steps are used to access the key server.
+Go to the site: http://www.alaska.edu/keys/.It is the site for concurrent software at the University of Alaska.  Concurrent software usage means that a limited number of users can run the software at the same time.  For faculty members who are off-campus, webmail username and password may be asked.
+Click on Key Checkout 6.1.2 to download.
+Click on the desired software to download.
+Reconnect to: http://www.alaska.edu/keys/  before checkout expiration time (indicated during the install) to renew the software license.
+This process may require a VPN connection.  There are instructions and technical support information on the Key Server Website if further assistance is needed.
+ 
+10.	Syllabus Template
+The following items are suggested for inclusion in a course syllabus based on best practices.  This is not intended to replace specific college requirements.  Please consult with your department chair or dean’s office.
+It is up to the discretion of the instructor of each course to determine if any or all of these items apply to their specific course.  Selected items are explained further in the subsequent pages.
+Critical Items
+	Semester and year	
+	Instructor name	
+	Two forms of contact info	
+	Office location and hours	(as applicable)
+	Course number, section and title	
+	Course meeting time and location	
+	Course objectives	
+	Course description (consistent with current catalog description)	
+	Prerequisites	(as applicable)
+	Expected skills (as applicable)
+	Texts: required and optional	
+	Types of assignments	
+	Grading scale and policy	
+	Academic dispute resolution procedure
+	Information regarding ADA
+	Information regarding equipment
+	Information regarding technical support and other services	
+	Overview of course delivery methods
+	Guidance on copyright law
+Recommended Items
+	Course pacing
+	Calendar of topics and assignments	
+	Attendance policy, including synchronous activities
+	Tardiness and leaving early policies	
+
+COURSE NUMBER, SECTION, AND TITLE
+COURSE MEETING TIME AND LOCATION
+SEMESTER AND YEAR
+
+ 
+Instructor Contact Information
+Students need at least two dependable ways to contact you.  List your name, your voice mail telephone number, and your email address.  Online office hours or other meeting arrangements are recommended.  Share your email response standards and/or practices with students.
+Course Description
+Use the actual catalog description or add to the description as needed to better portray the nature of the course.
+
+Course Objectives or Outcomes
+Convey what you expect the student to know and to be able to do by the end of the semester.  Use your department's course content guide for guidance.
+
+Teaching and Course Delivery Methods
+Explain how you plan to conduct the course, including the use of technology.  Examples include lecture, small groups, in-class discussion, online discussion, and labs.  Examples of technology use include Blackboard, Elluminate Live, and audio conferences.
+
+Assignments
+Tell what your major assignments will be.  Examples include tests, research papers, weekly quizzes, and daily homework.
+
+Course Pacing
+Examples include self-paced, weekly deadlines, etc.
+
+Required and Optional Texts/Equipment
+ 	In order to disclose to students the full cost of each course prior to the release of the 	schedule as 
+	required by the Higher Education Opportunity Act 	http://www2.ed.gov/policy/highered/leg/hea08/index.html
+	 the Faculty will notify the relevant university bookstore of the required texts and 	supplemental 	materials either at the time the course is added to  the schedule or by the 	deadlines announced 	by the bookstore, whichever occurs latest. The university bookstore 	deadlines are to occur  2-4 weeks prior to the schedule being available to the students. 	List texts which are 	required and which are optional.  List computer hardware and 	software requirements, supplies, and any other purchases necessary for success in the 	class.
+
+
+Prerequisites and/or Instructor’s Permission
+Students are expected to have the course prerequisite(s) listed in the catalog or the instructor’s permission before they enroll.  It is recommended that you list these prerequisites and advise students that unmet prerequisites are grounds for faculty-initiated withdrawal at the discretion of the instructor. 
+Expected Technical Skills
+Students may need to have computer or technical skills to succeed in your class.  State any necessary technical skills that students should already have.
+Include website address where students can review expected technical skills.  Consult the UAA Distance Education Website for current Web address.  Visit the website: www.uaa.alaska.edu/distanceeducation/
+
+Class Participation
+Teachers vary widely in their expectations and grading of student participation.  If participation is part of your grading system, it is recommended that you make this explicit.  Students may find this area of grading the most subjective and, therefore, debatable.
+Define participation in class.  Examples are daily in-class comments, helpfulness, small group work, board work, and online discussion participation.  Be specific as to how a student is graded.  If a student can incur penalties, specifically state how and what the penalties will be.
+Discussion board postings – If you use the Discussion Board feature for class participation grade provide students with clear standards of expected quantity and quality of postings.
+Attendance, Tardiness, and Leaving Early
+If attendance issues are part of your students' grades, maintain a detailed record throughout the semester.  If students can incur penalties, state how these might occur and what the penalty might be.  See suggestions below:
+Attendance--State clearly how many classes students are allowed to miss before they receive penalties, or are dropped from the class.  As a guideline, it is suggested maximum of three absences for a three-credit semester length course meeting once per week.
+Synchronous activities – If you use synchronous activities as a course requirement it is recommended that you provide attendance and participation standards at the beginning of the course.
+Tardiness--State clearly your tardy policies if you have them.  For example, if students are considered absent when they are tardy, make sure that it is in your syllabus.  Define tardiness.
+Leaving early-If you give penalties to students who leave early, state your policy.  Define leaving early.
+Class Atmosphere and Safety
+Students want to feel safe in order to express opinions and not to have other students either take over the class or be rude to you or them.  Specific policies may save you time and grief.
+State your minimum expectations of student manners, and how you will deal with problems.  Refer to, "Student Code of Conduct” in the Fact Finder Student Handbook or the catalog for further information on class atmosphere and safety.
+Academic Success and Support Services
+
+Students may not know about the academic support services that directly apply to your course.  They appreciate knowing these services at the beginning of the semester, and adding this assures that you do not have to repeat the information often.  
+
+To satisfy the Americans with Disabilities Act, include a sentence that says, "If you need disability-related accommodations, please notify Student Support Services."
+List other support services, such as open or department labs, tutors, counselors (Include telephone numbers and location for Learning Resource Center, Library and technical support.
+Major Assignment Submissions and Tests 
+Students need to know in the syllabus what all the major assignments and tests will be during the entire semester.  
+State each major test, paper, or project and briefly state the scope of each.  
+Explain procedures for assignment submission.
+Plagiarism and Cheating
+To protect yourself and your students, it is recommended that you define plagiarism as it applies to your course and advise students to consult the Academic Honesty policy in the UAA Student Handbook. 
+
+Academic Dispute Resolution Procedures
+Refer students to the UAA Student Handbook for detailed information on this policy. 
+
+
+Grading Policies
+Students need a clear understanding of your grading from the beginning of the semester.  If you do not clearly explain grading criteria in writing anywhere else, you need to have it in the syllabus.  
+State types of assignments and tests. 
+Explain criteria for major assignments and grading scale.  If your department has these criteria, include them here. 
+Include a grading scale.  If you grade on a curve, also explain how you do this.
+State carefully your policies on late papers, missed test dates, and other types of missed work and deadlines.  If you do not accept late work, say so.
+It is recommended that you refer students to the UAA Catalog for policy on incomplete grades.  Suggest that students keep all their graded work until after they receive their final grades.
+Calendar of Topics and Assignments
+Students need to know your daily topics and assignments.  No doubt, this takes a lot of time for you to create the calendar; however, students depend on such organization.  As well, you have a map for the semester before it starts.  It is suggested that you take the time before the semester starts to create an explicit calendar that lists, by class day, the topic, and assignments due.  
+State clearly that this calendar is tentative and subject to change during the semester.  It is suggested that you, give all assignment or date changes in writing to students.
+List by class day the date, topic, and assignment due.
+List the course's finals week test day and time for the class and any dates that are the last dates for late work.
+ADA Policy
+The provision of equal opportunities for students who experience disabilities is a campus-wide responsibility and commitment.  Disability support services are mandated by Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) of 1990.Disabilities Support Services (DSS) is the designated UAA department responsible for coordinating academic support services for students who experience disabilities.  
+ 
+11.	Email Information
+The following information outlines setting up and managing student email accounts.
+How do you get an Email account?
+UAA Email accounts are created automatically for students registered for at least one credit.  Allow two business days after registration for account availability.  To lookup your Email account, use the USERNAME LOOKUP form on the left of the technology webpage: http://www.uaa.alaska.edu/informationtechnologyservices/identity.cfm
+	What is your email address?
+<username>@uaa.alaska.edu
+Your default email address is your username with @uaa.alaska.edu appended to it.  IT Services customers have the option of choosing up to three email aliases which are usernames of your choice, like john.doe@uaa.alaska.edu.  To create an alias, go to Directory Update at: http://me.uaa.alaska.edu
+What is your password?
+Your default UAA password is lower case UAA followed by your first, middle and last name initials in upper case, then the last four digits of your UAID# (also called student or employee id number).  If this does not work, please contact the Call Center for further assistance.
+How do you change your password?
+ITS recommends you change your password to a secure one of your own choosing.  Login to your account at: http://me.uaa.alaska.edu to change your password.
+Did you forget your password?
+If you cannot remember your password or need to reset it, go to the following link:
+http://me.uaa.alaska.edu Be sure to click the Forgot Your Password button on the bottom of the login page.  If you have questions or need assistance, contact the IT Call Center at 786-4646, option 1.
+(Outside of Anchorage call 1-877-633-3888) or email callcenter@uaa.alaska.edu
+How do you use your e-mail?
+If you are a student at UAA, you will access your email through the UA Gmail at http://www.alaska.edu/google. You can access your Gmail account from any computer connected to the Internet that has a Web browser. If you are UAA staff or faculty, you will use Exchange services for your UAA email. You can access your email at https://www.uaa.alaska.edu/email/  
+Note: the staff/faculty email address sends faculty and staff to http://webaccess.uaa.alaska.edu or http://owa.uaa.alaska.edu, since we are still using both.  
+When does your account expire?
+Student accounts expire one semester after the last day of attendance.  Staff, faculty, and other employee accounts expire one month after last day of employment or upon the supervisor's request.
+	What does, "over quota" mean?
+Email storage space is limited.  If you receive an over quota message, it means that you have exceeded your available space on the email server.  You will need to login to Webmail and delete some messages (you must also empty trash from the 'folders' view) or download them to your personal computer. 
+Quota limits are as follows:
+Students have 10MB
+Staff and Faculty have 2GB
+Mailing Lists at UAA - Where can you find information?
+A mailing list is method of distributing e-mails to a large number of people through a single e-mail address, rather than dealing with a collection of e-mail addresses in your e-mail program.  A mailing list is managed on a server with commands that range from adding and removing addresses to setting posting privileges.  You must be staff, faculty, or a sponsored student worker to request a mailing list.  Mailing List FAQ
+Spam Filtering
+All incoming mail to UAA is filtered for spam (junk mail).Learn more at the AntiSpam-IronportFAQ
+What is the server’s address?
+If you are setting up an e-mail program, you will need to enter mail.uaa.alaska.edu for the incoming mail server name, and smtp.uaa.alaska.edu for the outgoing mail server name.
+For Exchange information and setup information please see the Exchange articles at:  
+http://www.uaa.alaska.edu/informationtechnologyservices/email.cfm 
+For KPC: Contact IT Services: 907-262-0351
+Expected Technical Skills
+	Can you change the way your name appears on outgoing e-mails?
+ Yes, all this and more can be conveniently managed from: https://me.uaa.alaska.edu/
+
+Can you send attachments?  What is the size limit on attachments?
+Yes.  Attachments must be under 10MB.  If you have a large attachment and want to distribute it, consider posting it on the Web, and then mail everyone the URL.  This will get the information out faster.  Note that the recipients email system will also have size limits and rules that affect attachments.
+If you have an address book in your desktop e-mail program, can you import it into Webmail?
+There is currently no way to import your personal address book into your Webmail account.
+ Can you forward your e-mail somewhere else?
+Yes, contact IT Services for further information.
+12.	Identifying Class Modalities and Coding
+
+The following table can be used as a guide to identify class modalities that are reflected in the coding system shown in the last column.  More information can be found at the following website: http://curric.uaa.alaska.edu/Proofs/admin%20manual_final.pdf
+ 
+Guide to What to Put on the Proofs
+NEW COLUMN	OPTIONS	WHAT YOU TYPE
+Course Category
+LB=location based	0=0% LB	0
+	1= 1-20% LB (up to 9 hours)	1
+	2=21-50% LB (9.5 to 22.5 hours)	2
+	3=51% LB (more than 22.5 hours)	3
+Pacing	Instructor	I
+	Self	S
+Meeting Times	Yes	Y
+	No	N
+Delivery Methods	Audio Conferencing	AUDIO
+	Face-to-face	F2F
+	Independent Learning / Correspondence	INDL
+	Independent or Directed Study	ISDS
+	Multimedia	MULTIMEDIA
+	Online / Web delivered 
+(Blackboard)	ONLINE
+	Special Technology 	SPEC TECH
+	Live Television / UATV	TV
+	Video Conferencing	VIDEO
+	Web Meeting
+(eLive)	WEB MTG
+(if you only type in WEB, we will assume this is what you mean)
+Schedule Notes	Type notes that you want to display to students.  Be sure to read it over and make sure it is clear and correct.
+
+ 
+Policies, Procedures, and Regulations
+1.	Academic Integrity
+Academic integrity is a basic principle, which requires that students take credit only for ideas and efforts that are their own.  Cheating, plagiarism, and other forms of academic dishonesty are defined as the submission of materials in assignments, exams, or other academic work that is based on sources prohibited by the faculty member.  Substantial portions of academic work that a student has submitted for a course may not be resubmitted for credit in another course without the knowledge and advance permission of the instructor.  Academic dishonesty is further defined in the Student Code of Conduct.  In addition to any adverse academic action that may result from engaging in academically dishonest behavior, the University specifically reserves the right to address and sanction the conduct involved through the student judicial review procedures outlined in this section.  Academic actions are reviewable under the Academic Dispute Resolution Procedure contained in this section of this handbook.
+Visit the website: http://www.uaa.alaska.edu/deanofstudents/StudentJudicialServices/academicintegrity.cfm
+For additional information, visit the Consortium Library website: http://www.consortiumlibrary.org/blogs/ahi/uaa-apu-policies-and-procedures/
+The student code of conduct addresses issues of academic integrity.  Cheating, plagiarism, or other forms of academic dishonesty include the following:
+a. using material sources not authorized by the faculty member during an examination or assignment
+b. utilizing devices that are not authorized by the faculty member during an examination or assignment
+c. assisting another student or receiving assistance from another student during an examination or assignment in a manner not authorized by the faculty member
+d. presenting as their own the ideas or works of another person without proper acknowledgment of sources
+e. knowingly permitting his or her works to be submitted by another person without the faculty member's permission
+f. acting as a substitute or utilizing a substitute in any examination or assignment
+g. fabricating data in support of laboratory or fieldwork
+h.  possessing, buying, selling, obtaining, or using a copy of any material intended to be used as an instrument of examination or in an assignment in advance of its administration
+i. altering grade records of their own or another student's work
+j. offering a monetary payment or other remuneration in exchange for a grade
+Visit the Dean of Students website: http://www.uaa.alaska.edu/deanofstudents/StudentJudicialServices/academicintegrity.cfm
+2.	Academic Rights of Students
+The University has the responsibility of providing a program of high quality education in keeping with its financial resources; students have protection through campus-specific procedures against arbitrary or capricious academic evaluation.  Student performance shall be evaluated solely on an academic basis, not on opinions or conduct in matters unrelated to academic standards.  Students are responsible for the proper completion of their academic program, for familiarity with all requirements of the University catalog, and for maintaining an acceptable grade average for degree requirements.  Students have the right to be informed at the beginning of each term of the nature of the course, course expectations, evaluation standards, and the grading system.
+3.	Academic Dispute Resolution Procedure
+Challenges to academic decisions or actions of the faculty or academic administration will be reviewed according to a procedure that implements the UA Board of Regents Policy 09.03.02 and University Regulation on Resolution of Disputes Regarding Academic Decisions or Actions.  Appropriate issues for this procedure include such things as alleged arbitrary and capricious dismissal from or denial of admission to an academic program based upon academic considerations, alleged grading error, or arbitrary and capricious grading for a final grade assignment.  Grades assigned prior to the final grade received in a course are not subject to review under this procedure.  Only the course instructor or an academic decision review committee may authorize a change in the assignment of a final grade.
+ 
+4.	Acceptable Use Policy
+The various software and other electronic technologies provided by UAA for the use of the University community are governed by a number of technology policies.  These are:
+•	Acceptable Use Policy 
+•	Blackboard Use Policy 
+•	Campus Network Connectivity Policy 
+•	University Web Content and Administration Policy 
+Visit the website: http://www.uaa.alaska.edu/policy/tech/accuse.cfm
+5.	Copyright and Intellectual Property Rights Policy
+The University of Alaska Anchorage provides network and computing infrastructure to promote the basic missions of the University in learning, research, and service, by facilitating communication, collaboration, and access to information resources.  Users of this infrastructure must be mindful of and respect ownership of intellectual property and copyrighted information to which this infrastructure can provide access.
+Copyright and intellectual property rights may attach to files of any media type, including software, texts, databases, images, video, music, and other audio files.  Abuse of computing or network technologies to copy or distribute materials in violation of copyright, license, or intellectual property rights undermines the free exchange of ideas and access to information resources central to the University's mission and is expressly forbidden by University Policy and Regulation.
+The University of Alaska Anchorage aggressively investigates specific claims of such abuse, including abuses using personally owned computers connected to the University's network.  Verified abuses may lead to immediate suspension of access to University networks and/or computing resources, subject violators to possible University disciplinary action, and expose them to fines, other civil penalties, and criminal prosecution by copyright owners.
+
+The issue of “who owns what” is not as clear in teaching with technology as it is in the traditional classroom.  Therefore, faculty members need to ensure they know and understand the key issues associated with ownership of produced intellectual materials.
+The basics of intellectual property rights include:
+The author owns work except when work-for-hire rules apply.
+The author’s employer owns works when:
+it is produced within employee’s scope of employment
+an agreement is signed with the author before the work begins
+It is better to ask questions about intellectual property ownership before a work is created.
+The Board of Regents’ policy states:
+Copyright ownership of all materials that are developed with the use of university facilities will reside with the university, except as follows:
+a. The university will not assert ownership of copyrightable materials produced by faculty members as a part of their normal teaching and scholarly activities at the university and which do not result from a project specifically funded in whole or in part by the university, or by a sponsor of the university.
+b.  Copyright ownership of all materials which are developed in the course of, or pursuant to sponsored research or other agreement(s), will be determined in accordance with the terms of those agreement(s) or, in the absence of such terms, the copyright will be the property of the university.
+
+c.  Copyrighted materials not within the provisions of categories “a” and “b” above will be the property of the university, except for theses; however, the author(s) of theses must, as a condition of a degree award, grant royalty-free permission to the university to reproduce and publicly distribute copies of the theses.
+Visit the websites:
+http://www.uaa.alaska.edu/policy/copyright/index.cfm
+http://www.alaska.edu/bor/policy-regulations/
+6.	Fair Use
+a. Fair Use Defined
+“Fair Use” refers to the legal right of individuals to use copyrighted materials for certain purposes without infringing on the copyright protections associated with those items.  Section 107 of the U.S. Copyright Act outlines four factors that must be considered when determining whether a specific use of a work is protected under Fair Use.  Below is the actual text of Section 107 that lists these factors:"In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include —
+1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
+2. the nature of the copyrighted work;
+3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
+4. the effect of the use upon the potential market for or value of the copyrighted work.
+The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors."
+b. Still Not Sure If It Is Fair Use?
+If you complete the checklist and are still not clear on whether or not your specific use can be considered Fair Use, then please contact the University of Alaska’s Intellectual Property and Licensing Department for assistance:
+Director
+Intellectual Property and Licensing for the University of Alaska
+University of Alaska Fairbanks
+PO Box 757560
+Fairbanks, AK 99775-7560
+907-474-7765
+Visit the website: http://www.uaa.alaska.edu/policy/copyright/fairuse.cfm
+7.	Family Educational Rights and Privacy Act (FERPA)
+The Family Educational Rights and Privacy Act is a Federal law that protects the privacy of student education records.  The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.  It gives parents certain rights with respect to their children's education records.  These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level.
+Visit the website:
+http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html
+
+For faculty interested in completing the UAA sponsored computer-based FERPA certification training, visit the website:
+http://www.uaa.alaska.edu/finsys/bannertraining.cfm
+FERPA Training
+(this site can only be accessed from an on-campus computer)
+ 
+8.	TEACH Act
+TEACH Act Defined 
+The TEACH Act (Technology, Education and Copyright Harmonization Act) is a piece of legislation that offers instructors expanded opportunities for using copyright-protected materials in distance-delivered and electronically enhanced courses.  TEACH does not revise or undercut fair use exemptions that apply to the use of copyright-protected materials in instructional settings.  Instead, it exists alongside the principles of fair use in the Copyright Act, expanding the contexts and circumstances under which copyright protected resources may be used by teachers without special permission or licensing in the digital or distance education environment.
+TEACH Act Worksheet
+It should come as no surprise that the TEACH Act is not an easy document to read and interpret.  As with most pieces of copyright legislation, TEACH does not spell out in clear and precise terms exactly what copyright-protected materials may or may not be used in a given instructional circumstance.  The TEACH Act Worksheet is designed to assist you in making that determination yourself, as the faculty member is responsible for complying with copyright law and for documenting that compliance.  As you work your way down the checklist, keep in mind that TEACH is designed to balance the interests and needs of instructors with the interests and needs of those who have authored content.  That balancing act means that judicious restraint and good faith are called for in deciding what copyright-protected materials may be used for instructional purposes and in what amounts.
+TEACH ACT WORKSHEET (with explanations) - PDF Format
+TEACH ACT WORKSHEET (without explanations) - PDF Format
+Further Assistance on Using the TEACH Act
+If you have reviewed the TEACH Act Worksheet and are still unsure whether certain materials may be used under the exemptions of TEACH (or under the exemptions of fair use), then you should contact the University of Alaska's Intellectual Property & Licensing Department for assistance:
+Director
+Intellectual Property and Licensing for the University of Alaska
+University of Alaska Fairbanks
+PO Box 757560
+Fairbanks, AK 99775-7560
+907-474-7765
+Visit the website:
+http://www.uaa.alaska.edu/policy/copyright/teachact.cfm
+9.	Blackboard Policy
+UAA has established Blackboard usage policies that include areas such as appropriate use; user management and access; course management; information accuracy and security; copyright and ownership and system management and outages and upgrades.  Faculty members are encouraged to review and familiarize themselves with Blackboard policy for a more effective utilization of this critical teaching tool. 
+For the entire content of this policy document, visit the website: https://kb.uaa.alaska.edu/Wiki%20Pages/Blackboard%20Faculty%20Resources.aspx .
+10.	Elluminate Live Policy (Pending)
+Elluminate Live is a synchronous distance-teaching tool available to UAA faculty.  A proposed Elluminate Live policy document that covers areas such as appropriate use, user role and access, session management as well as copyright and ownership is available in draft format for review by contacting Faculty Technology Center.  Faculty members are encouraged to review this document.
+For more information, call (907) 786-4463
+Visit the website: http://www.uaa.alaska.edu/facultytechnologycenter/
