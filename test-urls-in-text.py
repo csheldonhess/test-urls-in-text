@@ -5,8 +5,11 @@ from urllib.error import  URLError
 import http.server
 import re
 
+# ... use this sweet regex I found to grab all the URLs from the text
+theexpr = re.compile(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?\xab\xbb\u201c\u201d\u2018\u2019]))')
+
 # Interact with the user
-infile = input('Name and path of the file to check: ')
+infile = input('\nName and path of the file to check: ')
 print('\nThe output will show up in the console and will also be available in a file called urlreport.txt\n\n')
 print('Here we go! \n\n')
 
@@ -37,18 +40,17 @@ else:
 	else:
 		# Going line-by-line through the file...
 		for line in f:
-			# ... use this sweet regex I found to grab all the URLs from the text
-			theexpr = re.compile(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?\xab\xbb\u201c\u201d\u2018\u2019]))')
 			# This thing gives you stupid tuples with information only in the first slot
-			# I don't know why.
+			# Unless there are two URLs per line...
+			# Possible future upgrade: deal with the improbable circumstance of multiple URLs on a line
 			for mgroups in theexpr.findall(line):
-				# But we'll grab the first spot in the tuple, which is the URL
+				# We'll grab the first spot in the tuple, which is a URL
 				someurl = mgroups[0]
 				# Interact with the user and output file some more
 				print('Checking ' + someurl, end=' -- ')
 				w.write('Checked ' + someurl + ': ')
 				# I was feeling a little prim when I added this output; why include http sometimes but not others?
-				# Still, adding the [understood] http: is easy and prevents needless errors.
+				# Still, adding the [understood] http:// is easy and prevents needless errors.
 				if (not '://' in someurl):
 					someurl = 'http://' + someurl
 					print('Needs URI scheme name indicated (http://, ftp://, etc.). \nTrying ' + someurl + ' instead:', end=' ')
@@ -56,33 +58,38 @@ else:
 				
 				# Send the request, with no data and that user agent lie
 				req = Request(someurl, data=None, headers=theagent)
+				# this should work in Python 3.3.3 but doesn't:
+				#req = Request(someurl, data=None, headers=theagent, cafile=None, capath=None, cadefault=False)
 
 				# I have questions about this structure; maybe I shouldn't be "except"ing the errors.
 				# Perhaps they should be printed just like the successes in the try: statement.
 				try:
 				    response = urlopen(req)
-				    print(http.server.BaseHTTPRequestHandler.responses[response.code][0])
+				    # That long thing there tells you what code was returned 
+				    # [0] tells it to give you the short version; [1] would be more verbose...
+				    # ... and not a lot more helpful
+				    thecode = http.server.BaseHTTPRequestHandler.responses[response.code][0]
+				    print(thecode)
+				    w.write(thecode + '\n')
+				    # Check for redirects
 				    if response.geturl() != someurl:
-				    	print('The URL redirected. Update ' + someurl + ' to ' + response.geturl())
-				    	w.write('The URL redirected. Update ' + someurl + ' to ' + response.geturl() + '\n')
+				    	print('The URL redirected. Consider updating ' + someurl + ' to ' + response.geturl())
+				    	w.write('The URL redirected. Consider updating ' + someurl + ' to ' + response.geturl() + '\n')
 
 				# Making the appropriate responses, in the case of errors
+				# Pretty much copied verbatim from the Python docs, only output changed :)
 				except URLError as e:
 				    if hasattr(e, 'reason'):
-				        print(someurl, end=" -- ")
-				        print (e, end=" ")
-				        w.write(someurl + ' ')
-				        w.write(e + ' ')
+				        print('We failed to reach a server.')
+				        print('Reason: ', e.reason)
 				    elif hasattr(e, 'code'):
-				        print(someurl, end=" -- ")
-				        print (e, end=" ")
-				        w.write(someurl + ' ')
-				        w.write(e + ' ')
+				        print('The server couldn\'t fulfill the request.')
+				        print('Error code: ', e.code)
 				    else:
 				        # This should never happen. But if it does, it's something interesting!
 				        print(someurl + "has something funky going on.")
-				print(" ") # double-spacing
-				w.write('\n') # single-spacing
+				print(" ") # adds a double-space between entries
+				w.write('\n\n') # adds a double-space between entries
 # Cleaning up.				
 w.close()
 f.close() 
