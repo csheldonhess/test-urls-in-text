@@ -82,9 +82,13 @@ else:
 				    if hasattr(e, 'reason'):
 				        print('We failed to reach a server.')
 				        print('Reason: ', e.reason)
+				        w.write('We failed to reach a server.')
+				        w.write('Reason: ' + str(e.reason))
 				    elif hasattr(e, 'code'):
 				        print('The server couldn\'t fulfill the request.')
 				        print('Error code: ', e.code)
+				        w.write('The server couldn\'t fulfill the request.')
+				        w.write('Error code: ' + str(e.code))
 				    else:
 				        # This should never happen. But if it does, it's something interesting!
 				        print(someurl + "has something funky going on.")
