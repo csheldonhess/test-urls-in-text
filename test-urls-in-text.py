@@ -24,7 +24,7 @@ except IOError as err:
 	print("I/O error: {0}".format(err))
 
 else:
-	# Here's where we see if the user entered a good filename
+	# Here's where we see if the output file opened acceptably
 
 	# ****** When everything else works, remind me to put this in a while() loop
 	# ... because I like my users and want to give them a chance to get it right
