@@ -21,31 +21,27 @@ theagent = { 'User-Agent' : user_agent }
 try:
 	w = open('urlreport.txt','w')
 except IOError as err:
-	print("I/O error: {0}".format(err))
+	print("Bad output file. I/O error: {0}".format(err))
 
 else:
 	# Here's where we see if the output file opened acceptably
-
-	# ****** When everything else works, remind me to put this in a while() loop
-	# ... because I like my users and want to give them a chance to get it right
-	# ******
 
 	try:
 		f = open(infile,'r')
 		
 	except IOError as err:
-	    print("I/O error: {0}".format(err))
+	    print("Bad file specified by user. Exiting. I/O error: {0}".format(err))
 
 	# If everything's in order with all the filenames, let's proceed
 	else:
 		# Going line-by-line through the file...
 		for line in f:
-			# This thing gives you stupid tuples with information only in the first slot
+			# Below, findall() gives you lists with information only in the first slot
 			# Unless there are two or more URLs per line...
 			# Possible future upgrade: deal with the improbable circumstance of multiple URLs on a line
 			for mgroups in theexpr.findall(line):
-				# We'll grab the first spot in the tuple, which is a URL
-				someurl = mgroups[0]
+				# We'll grab the first spot in the list, which is a URL
+				someurl = mgroups[0] 
 				# Interact with the user and output file some more
 				print('Checking ' + someurl, end=' -- ')
 				w.write('Checked ' + someurl + ': ')
@@ -65,7 +61,7 @@ else:
 				# Perhaps they should be printed just like the successes in the try: statement.
 				try:
 				    response = urlopen(req)
-				    # That long thing there tells you what code was returned 
+				    # That long thing below tells you what code was returned 
 				    # [0] tells it to give you the short version; [1] would be more verbose...
 				    # ... and not a lot more helpful
 				    thecode = http.server.BaseHTTPRequestHandler.responses[response.code][0]
